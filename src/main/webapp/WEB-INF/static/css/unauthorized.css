@@ -1,0 +1,6 @@
+div {
+    background-image: url(http://i.piccy.info/i9/ebd3fbb175af89c7536f2da4d0bc486a/1553289793/29387/1309080/access.jpg);
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+}
